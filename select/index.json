@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "まともじゃないのがちょうどいいの",
+  "base_artist": "ももすももす",
+  "createdAt": "2026-02-07T20:08:05.834847Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まともじゃないのがちょうどいいの",
+      "artist": "ももすももす",
+      "has_synced": false,
+      "path": "select/pl_01_まともじゃないのがちょうどいいの_ももすももす.txt"
+    }
+  ]
+}
